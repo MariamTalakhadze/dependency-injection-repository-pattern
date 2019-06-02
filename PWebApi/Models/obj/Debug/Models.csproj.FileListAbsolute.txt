@@ -1,0 +1,9 @@
+C:\Users\mariam\source\repos\PWebApi\Models\bin\Models.dll.config
+C:\Users\mariam\source\repos\PWebApi\Models\bin\Models.dll
+C:\Users\mariam\source\repos\PWebApi\Models\bin\Models.pdb
+C:\Users\mariam\source\repos\PWebApi\Models\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mariam\source\repos\PWebApi\Models\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mariam\source\repos\PWebApi\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\mariam\source\repos\PWebApi\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\mariam\source\repos\PWebApi\Models\obj\Debug\Models.dll
+C:\Users\mariam\source\repos\PWebApi\Models\obj\Debug\Models.pdb
