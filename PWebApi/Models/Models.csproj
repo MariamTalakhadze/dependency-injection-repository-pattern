@@ -78,10 +78,11 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AgweraModels.cs" />
-    <Compile Include="MomxmarebeliModels.cs" />
+    <Compile Include="OrderModel.cs" />
+    <Compile Include="Pkindmodel.cs" />
+    <Compile Include="PriceModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ShekvetebiModels.cs" />
+    <Compile Include="UserModel.cs" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

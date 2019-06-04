@@ -7,3 +7,11 @@ C:\Users\mariam\source\repos\PWebApi\Models\obj\Debug\Models.csprojResolveAssemb
 C:\Users\mariam\source\repos\PWebApi\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
 C:\Users\mariam\source\repos\PWebApi\Models\obj\Debug\Models.dll
 C:\Users\mariam\source\repos\PWebApi\Models\obj\Debug\Models.pdb
+C:\Users\mariam\Desktop\dependency-injection-repository-pattern\PWebApi\Models\bin\Models.dll.config
+C:\Users\mariam\Desktop\dependency-injection-repository-pattern\PWebApi\Models\bin\Models.dll
+C:\Users\mariam\Desktop\dependency-injection-repository-pattern\PWebApi\Models\bin\Models.pdb
+C:\Users\mariam\Desktop\dependency-injection-repository-pattern\PWebApi\Models\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mariam\Desktop\dependency-injection-repository-pattern\PWebApi\Models\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mariam\Desktop\dependency-injection-repository-pattern\PWebApi\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\mariam\Desktop\dependency-injection-repository-pattern\PWebApi\Models\obj\Debug\Models.dll
+C:\Users\mariam\Desktop\dependency-injection-repository-pattern\PWebApi\Models\obj\Debug\Models.pdb

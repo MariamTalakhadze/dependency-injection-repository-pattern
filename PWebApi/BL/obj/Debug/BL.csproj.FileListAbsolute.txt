@@ -12,3 +12,17 @@ C:\Users\mariam\source\repos\PWebApi\BL\obj\Debug\BL.csprojResolveAssemblyRefere
 C:\Users\mariam\source\repos\PWebApi\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
 C:\Users\mariam\source\repos\PWebApi\BL\obj\Debug\BL.dll
 C:\Users\mariam\source\repos\PWebApi\BL\obj\Debug\BL.pdb
+C:\Users\mariam\Desktop\dependency-injection-repository-pattern\PWebApi\BL\bin\BL.dll.config
+C:\Users\mariam\Desktop\dependency-injection-repository-pattern\PWebApi\BL\bin\BL.dll
+C:\Users\mariam\Desktop\dependency-injection-repository-pattern\PWebApi\BL\bin\BL.pdb
+C:\Users\mariam\Desktop\dependency-injection-repository-pattern\PWebApi\BL\bin\DataAccessLayer.dll
+C:\Users\mariam\Desktop\dependency-injection-repository-pattern\PWebApi\BL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mariam\Desktop\dependency-injection-repository-pattern\PWebApi\BL\bin\EntityFramework.dll
+C:\Users\mariam\Desktop\dependency-injection-repository-pattern\PWebApi\BL\bin\DataAccessLayer.pdb
+C:\Users\mariam\Desktop\dependency-injection-repository-pattern\PWebApi\BL\bin\DataAccessLayer.dll.config
+C:\Users\mariam\Desktop\dependency-injection-repository-pattern\PWebApi\BL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mariam\Desktop\dependency-injection-repository-pattern\PWebApi\BL\bin\EntityFramework.xml
+C:\Users\mariam\Desktop\dependency-injection-repository-pattern\PWebApi\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\mariam\Desktop\dependency-injection-repository-pattern\PWebApi\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\mariam\Desktop\dependency-injection-repository-pattern\PWebApi\BL\obj\Debug\BL.dll
+C:\Users\mariam\Desktop\dependency-injection-repository-pattern\PWebApi\BL\obj\Debug\BL.pdb
